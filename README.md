@@ -11,8 +11,13 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Areeba-sarwar/HR-Analytics-PowerBI-Dashboard/blob/main/Actions.PNG" width="700" alt="HR Analytics Attrition Insights">
+</p>
+
+<p align="center">
   <img src="" width="700" alt="HR Analytics Attrition Insights">
 </p>
+
 
 ---
 
