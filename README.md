@@ -3,7 +3,11 @@
 ## 📊 Dashboard Preview  
 
 <p align="center">
-  <img src="" width="700" alt="HR Analytics Dashboard Overview">
+  <img src="https://github.com/Areeba-sarwar/HR-Analytics-PowerBI-Dashboard/blob/main/Home.PNG" width="700" alt="HR Analytics Dashboard Overview">
+</p>
+
+<p align="center">
+  <img src="" width="700" alt="HR Analytics Attrition Insights">
 </p>
 
 <p align="center">
